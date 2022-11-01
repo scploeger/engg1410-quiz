@@ -11,6 +11,9 @@ int main(void)
         printf("You know how to use Git!");
     }
 
+    else(
+        printf("Look at the modules and try this test again another time!");
+    )
     printf("\n");
 
     return 0;
