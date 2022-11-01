@@ -1,4 +1,3 @@
-// TO DO: Add an "else" condition after line 12 which prints another message if the user does not enter "y"
 #include <stdio.h>
 
 int main(void)
@@ -9,6 +8,9 @@ int main(void)
 
     if(val == 'y'){
         printf("You know how to use Git!");
+    }
+    else{
+      printf("You do not know how to use Git!");
     }
 
     printf("\n");
