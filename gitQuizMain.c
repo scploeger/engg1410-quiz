@@ -1,4 +1,4 @@
-// TO DO: Add an "else" condition after line 12 which prints another message if the user does not enter "y"
+
 #include <stdio.h>
 
 int main(void)
