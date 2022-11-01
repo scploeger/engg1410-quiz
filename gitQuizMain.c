@@ -10,8 +10,11 @@ int main(void)
     if(val == 'y'){
         printf("You know how to use Git!");
     }
+    else{printf("you did not enter 'y'\n");
+    }
 
     printf("\n");
 
     return 0;
 }
+//commit message: added else statement at line 13
